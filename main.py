@@ -1,11 +1,8 @@
-"""Author details: Noy Kadosh (noykadosh123@gmail.com), Jul 2020.
-
+"""
 This program is part of a preprocessing stage in a cats' roaming research.
 The program takes aerial image (with geographical anchoring, e.g. world file),
 along with gps points, and returns the area of interest as GIS file, for
 farther processing in a manual stage.
-
-The main method to call is 'shell'
 """
 
 # Standard library imports
